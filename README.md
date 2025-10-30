@@ -1,5 +1,3 @@
-# Hospital-Outcome-Prediction
-Predicting hospital patient outcomes (Discharge vs Expiry) using Machine Learning and real clinical data
 # 🏥 Hospital Outcome Prediction using Machine Learning
 
 ## 📘 Project Overview
@@ -47,6 +45,11 @@ The goal is to assist healthcare professionals in **early identification of high
 - Atypical Chest Pain  
 - CVA Bleed  
 
+*(See the chart below for visualization)*  
+
+![Feature Importance](A_bar_chart_in_the_image_titled_"Top_10_Most_Impor.png)
+
+---
 
 ## 🧰 Tech Stack
 - **Programming:** Python  
